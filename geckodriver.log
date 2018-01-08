@@ -1,0 +1,1569 @@
+1515306849750	geckodriver	INFO	geckodriver 0.19.0
+1515306849764	geckodriver	INFO	Listening on 127.0.0.1:60635
+1515306851091	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.AF3S9BCC95b6"
+1515306852533	Marionette	INFO	Enabled via --marionette
+2018-01-07 12:04:14.181 plugin-container[20667:1846319] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515306854920	Marionette	INFO	Listening on port 60645
+1515306854966	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515306855054	Marionette	DEBUG	Register listener.js for window 2147483649
+1515306855112	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515306856067	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515306856067	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515306857184	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515306857589	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1515306857713	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515307033213	geckodriver	INFO	geckodriver 0.19.0
+1515307033227	geckodriver	INFO	Listening on 127.0.0.1:60882
+1515307034422	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.bUgHLInFw0Sz"
+1515307035168	Marionette	INFO	Enabled via --marionette
+2018-01-07 12:07:16.198 plugin-container[20700:1848937] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515307036798	Marionette	INFO	Listening on port 60891
+1515307036837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515307036919	Marionette	DEBUG	Register listener.js for window 2147483649
+1515307037011	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515307038016	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515307038016	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515307038028	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515307038581	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+[Parent 20699, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1515307380587	geckodriver	INFO	geckodriver 0.19.0
+1515307380596	geckodriver	INFO	Listening on 127.0.0.1:61286
+1515307381789	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.7HdenxlZvRGz"
+1515307382749	Marionette	INFO	Enabled via --marionette
+2018-01-07 12:13:04.145 plugin-container[20849:1855517] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515307384803	Marionette	INFO	Listening on port 61295
+1515307384886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515307384971	Marionette	DEBUG	Register listener.js for window 2147483649
+1515307384997	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515307389065	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515307389066	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515307389083	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515307389801	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515307503502	geckodriver	INFO	geckodriver 0.19.0
+1515307503510	geckodriver	INFO	Listening on 127.0.0.1:61418
+1515307504693	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.1r1VQZtj7uV6"
+1515307505528	Marionette	INFO	Enabled via --marionette
+2018-01-07 12:15:06.674 plugin-container[20902:1858307] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8303, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515307507239	Marionette	INFO	Listening on port 61427
+1515307507348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515307507425	Marionette	DEBUG	Register listener.js for window 2147483649
+1515307507451	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515307508465	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515307508466	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515307508478	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515307509074	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515307538332	geckodriver	INFO	geckodriver 0.19.0
+1515307538342	geckodriver	INFO	Listening on 127.0.0.1:61502
+1515307539512	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.laXhr0DhkHbM"
+1515307540161	Marionette	INFO	Enabled via --marionette
+2018-01-07 12:15:41.274 plugin-container[20911:1859199] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515307541771	Marionette	INFO	Listening on port 61511
+1515307541857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515307541939	Marionette	DEBUG	Register listener.js for window 2147483649
+1515307541967	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515307542925	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515307542925	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515307542950	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515307543789	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515307577692	geckodriver	INFO	geckodriver 0.19.0
+1515307577708	geckodriver	INFO	Listening on 127.0.0.1:61607
+1515307578934	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.xRbjIjBXdHmJ"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515307580575	Marionette	INFO	Enabled via --marionette
+2018-01-07 12:16:22.291 plugin-container[20954:1860449] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515307583167	Marionette	INFO	Listening on port 61616
+1515307583292	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515307583396	Marionette	DEBUG	Register listener.js for window 2147483649
+1515307583462	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515307584412	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515307584412	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515307584425	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515307585054	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515307652295	geckodriver	INFO	geckodriver 0.19.0
+1515307652305	geckodriver	INFO	Listening on 127.0.0.1:61753
+1515307653491	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.J2vxUyxAXlFB"
+1515307654251	Marionette	INFO	Enabled via --marionette
+2018-01-07 12:17:35.472 plugin-container[20981:1861932] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515307655968	Marionette	INFO	Listening on port 61764
+1515307656040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515307656131	Marionette	DEBUG	Register listener.js for window 2147483649
+1515307656184	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515307657220	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515307657220	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515307657232	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515307657846	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515307723500	geckodriver	INFO	geckodriver 0.19.0
+1515307723511	geckodriver	INFO	Listening on 127.0.0.1:61893
+1515307724695	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.xDNN5RWW0LLf"
+1515307725379	Marionette	INFO	Enabled via --marionette
+2018-01-07 12:18:46.494 plugin-container[21010:1863483] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515307727271	Marionette	INFO	Listening on port 61902
+1515307727377	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515307727500	Marionette	DEBUG	Register listener.js for window 2147483649
+1515307727602	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515307728581	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515307728581	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515307728594	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515307729417	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+2018-01-07 12:19:08.508 plugin-container[21038:1864197] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+2018-01-07 12:19:12.605 plugin-container[21041:1864314] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8707, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515307788691	geckodriver	INFO	geckodriver 0.19.0
+1515307788703	geckodriver	INFO	Listening on 127.0.0.1:62031
+1515307789871	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.pmQ89FklX3dE"
+1515307790540	Marionette	INFO	Enabled via --marionette
+2018-01-07 12:19:51.829 plugin-container[21051:1865126] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515307792886	Marionette	INFO	Listening on port 62040
+1515307792923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515307793066	Marionette	DEBUG	Register listener.js for window 2147483649
+1515307793148	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515307797203	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515307797203	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515307797217	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515307797975	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515308359681	geckodriver	INFO	geckodriver 0.19.0
+1515308359701	geckodriver	INFO	Listening on 127.0.0.1:62594
+1515308360900	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.exwgZWQtgjsQ"
+1515308361573	Marionette	INFO	Enabled via --marionette
+2018-01-07 12:29:22.824 plugin-container[21243:1873544] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8603, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515308363845	Marionette	INFO	Listening on port 62603
+1515308364015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515308364158	Marionette	DEBUG	Register listener.js for window 2147483649
+1515308364213	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515308365184	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515308365184	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515308366553	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515308366952	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1515308366988	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1515308513751	geckodriver	INFO	geckodriver 0.19.0
+1515308513769	geckodriver	INFO	Listening on 127.0.0.1:62717
+1515308514053	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.XfQUDKZ6wCrF"
+1515308515665	Marionette	INFO	Enabled via --marionette
+2018-01-07 12:31:57.756 plugin-container[21282:1875502] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515308518754	Marionette	INFO	Listening on port 62724
+1515308518850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515308518962	Marionette	DEBUG	Register listener.js for window 2147483649
+1515308519083	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515308519898	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515308519899	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515308520848	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515308521251	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1515308521430	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515308694742	geckodriver	INFO	geckodriver 0.19.0
+1515308694755	geckodriver	INFO	Listening on 127.0.0.1:62902
+1515308696025	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.F3zFXbVCysJK"
+1515308697479	Marionette	INFO	Enabled via --marionette
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.child1/highlighter30
+2018-01-07 12:34:59.221 plugin-container[21345:1878318] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515308699807	Marionette	INFO	Listening on port 62911
+1515308699923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515308700003	Marionette	DEBUG	Register listener.js for window 2147483649
+1515308700048	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515308700860	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515308700860	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515308701870	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515308702182	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515308702276	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515308769760	geckodriver	INFO	geckodriver 0.19.0
+1515308769769	geckodriver	INFO	Listening on 127.0.0.1:63028
+1515308770876	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.WNO2orzYKetO"
+1515308771467	Marionette	INFO	Enabled via --marionette
+2018-01-07 12:36:12.578 plugin-container[21374:1879466] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515308773130	Marionette	INFO	Listening on port 63037
+1515308773176	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515308773259	Marionette	DEBUG	Register listener.js for window 2147483649
+1515308773294	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515308774139	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515308774139	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515308775072	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515308775512	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515308775593	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515308817786	geckodriver	INFO	geckodriver 0.19.0
+1515308817802	geckodriver	INFO	Listening on 127.0.0.1:63120
+1515308819009	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.upVFH6GplvyC"
+1515308819750	Marionette	INFO	Enabled via --marionette
+2018-01-07 12:37:00.884 plugin-container[21403:1880529] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515308821396	Marionette	INFO	Listening on port 63129
+1515308821446	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515308821525	Marionette	DEBUG	Register listener.js for window 2147483649
+1515308821574	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515308822401	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515308822402	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515308823187	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515308823913	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515308826585	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515308854409	geckodriver	INFO	geckodriver 0.19.0
+1515308854421	geckodriver	INFO	Listening on 127.0.0.1:63205
+1515308855637	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.vgVYRmrRMdQh"
+1515308856334	Marionette	INFO	Enabled via --marionette
+2018-01-07 12:37:37.434 plugin-container[21430:1881535] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515308857953	Marionette	INFO	Listening on port 63214
+1515308858070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515308858168	Marionette	DEBUG	Register listener.js for window 2147483649
+1515308858198	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515308859019	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515308859019	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515308859775	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515308860182	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515308860328	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515308967566	geckodriver	INFO	geckodriver 0.19.0
+1515308967575	geckodriver	INFO	Listening on 127.0.0.1:63335
+1515308968687	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.LLlar33Aw69g"
+1515308969353	Marionette	INFO	Enabled via --marionette
+2018-01-07 12:39:30.395 plugin-container[21488:1883382] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515308970923	Marionette	INFO	Listening on port 63345
+1515308971009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515308971093	Marionette	DEBUG	Register listener.js for window 2147483649
+1515308971146	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515308972024	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515308972025	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515308972795	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515308973237	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515308973388	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515309010701	geckodriver	INFO	geckodriver 0.19.0
+1515309010719	geckodriver	INFO	Listening on 127.0.0.1:63424
+1515309011932	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.AKVwlmxuj2zA"
+1515309012628	Marionette	INFO	Enabled via --marionette
+2018-01-07 12:40:13.742 plugin-container[21496:1884023] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515309014221	Marionette	INFO	Listening on port 63445
+1515309014247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515309014319	Marionette	DEBUG	Register listener.js for window 2147483649
+1515309014359	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515309015227	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515309015228	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515309016094	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515309016531	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515309016638	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515309027123	geckodriver	INFO	geckodriver 0.19.0
+1515309027133	geckodriver	INFO	Listening on 127.0.0.1:63524
+1515309028347	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.n52fb56jtBK6"
+1515309028995	Marionette	INFO	Enabled via --marionette
+2018-01-07 12:40:30.114 plugin-container[21503:1884424] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515309030589	Marionette	INFO	Listening on port 63535
+1515309030659	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515309030744	Marionette	DEBUG	Register listener.js for window 2147483649
+1515309030771	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515309031652	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515309031653	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515309032378	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515309032824	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515309032920	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515309040715	geckodriver	INFO	geckodriver 0.19.0
+1515309040724	geckodriver	INFO	Listening on 127.0.0.1:63607
+1515309041958	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.VYdylR7FgnAo"
+1515309042780	Marionette	INFO	Enabled via --marionette
+2018-01-07 12:40:44.187 plugin-container[21509:1884834] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515309044873	Marionette	INFO	Listening on port 63616
+1515309044926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515309045000	Marionette	DEBUG	Register listener.js for window 2147483649
+1515309045021	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515309045815	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515309045815	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515309046642	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515309047001	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515309047201	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515309100843	geckodriver	INFO	geckodriver 0.19.0
+1515309100856	geckodriver	INFO	Listening on 127.0.0.1:63738
+1515309102057	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.F2TFvPgUt7Hm"
+1515309102743	Marionette	INFO	Enabled via --marionette
+2018-01-07 12:41:43.950 plugin-container[21538:1886210] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515309104455	Marionette	INFO	Listening on port 63747
+1515309104510	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515309104588	Marionette	DEBUG	Register listener.js for window 2147483649
+1515309104615	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515309105413	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515309105413	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515309106313	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515309106744	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515309106872	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515309437416	geckodriver	INFO	geckodriver 0.19.0
+1515309437432	geckodriver	INFO	Listening on 127.0.0.1:64116
+1515309438573	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.DySHFt1zRTKT"
+1515309439235	Marionette	INFO	Enabled via --marionette
+2018-01-07 12:47:20.324 plugin-container[21643:1902763] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515309440812	Marionette	INFO	Listening on port 64125
+1515309440888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515309440972	Marionette	DEBUG	Register listener.js for window 2147483649
+1515309441002	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515309441872	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515309441873	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515309442778	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515309443203	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515309443302	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1515309476115	geckodriver	INFO	geckodriver 0.19.0
+1515309476125	geckodriver	INFO	Listening on 127.0.0.1:64215
+1515309477292	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.WpCNQG0LIR2A"
+1515309477942	Marionette	INFO	Enabled via --marionette
+2018-01-07 12:47:59.143 plugin-container[21668:1907170] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515309479784	Marionette	INFO	Listening on port 64224
+1515309479826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515309479909	Marionette	DEBUG	Register listener.js for window 2147483649
+1515309479948	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515309480751	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515309480752	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515309481585	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515309481954	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515309481981	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515331426322	geckodriver	INFO	geckodriver 0.19.0
+1515331426334	geckodriver	INFO	Listening on 127.0.0.1:49822
+1515331427581	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.V4q0tokZpbbM"
+1515331428613	Marionette	INFO	Enabled via --marionette
+2018-01-07 18:53:51.079 plugin-container[22170:2285547] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515331432385	Marionette	INFO	Listening on port 49831
+1515331432422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515331432527	Marionette	DEBUG	Register listener.js for window 2147483649
+1515331432597	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515331433506	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515331433507	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515331434907	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515331435310	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1515331435369	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515332260953	geckodriver	INFO	geckodriver 0.19.0
+1515332260964	geckodriver	INFO	Listening on 127.0.0.1:50399
+1515332262165	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.PsKqK2ACkPb8"
+1515332262933	Marionette	INFO	Enabled via --marionette
+2018-01-07 19:07:44.019 plugin-container[22479:2365825] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515332264539	Marionette	INFO	Listening on port 50408
+1515332264598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515332264671	Marionette	DEBUG	Register listener.js for window 2147483649
+1515332264711	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515332265539	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515332265540	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515332266347	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515332266832	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515332266862	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515332337112	geckodriver	INFO	geckodriver 0.19.0
+1515332337122	geckodriver	INFO	Listening on 127.0.0.1:50506
+1515332338298	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.rMpeD9LRkfNz"
+1515332339031	Marionette	INFO	Enabled via --marionette
+2018-01-07 19:09:00.249 plugin-container[22532:2374520] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515332340757	Marionette	INFO	Listening on port 50516
+1515332340877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515332340981	Marionette	DEBUG	Register listener.js for window 2147483649
+1515332341076	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515332341895	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515332341896	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515332342722	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515332343175	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515332343198	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515332414153	geckodriver	INFO	geckodriver 0.19.0
+1515332414173	geckodriver	INFO	Listening on 127.0.0.1:50652
+1515332414488	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.StKigIWKI6Mq"
+1515332416269	Marionette	INFO	Enabled via --marionette
+2018-01-07 19:10:18.119 plugin-container[22571:2382938] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515332419309	Marionette	INFO	Listening on port 50659
+1515332419416	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515332419533	Marionette	DEBUG	Register listener.js for window 2147483649
+1515332419657	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515332420558	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515332420559	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515332421327	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515332421790	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515332421907	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515332852682	geckodriver	INFO	geckodriver 0.19.0
+1515332852696	geckodriver	INFO	Listening on 127.0.0.1:50931
+1515332853905	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.tJc6weUAmeLV"
+1515332854788	Marionette	INFO	Enabled via --marionette
+2018-01-07 19:17:35.873 plugin-container[22672:2403876] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8407, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515332856357	Marionette	INFO	Listening on port 50940
+1515332856458	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515332856587	Marionette	DEBUG	Register listener.js for window 2147483649
+1515332856664	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515332857559	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515332857560	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515332858292	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515332858745	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515332858883	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515333005268	geckodriver	INFO	geckodriver 0.19.0
+1515333005279	geckodriver	INFO	Listening on 127.0.0.1:51070
+1515333006504	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.NglBDVsSddX5"
+1515333007363	Marionette	INFO	Enabled via --marionette
+2018-01-07 19:20:08.595 plugin-container[22721:2416753] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f2b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515333009255	Marionette	INFO	Listening on port 51080
+1515333009325	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515333009408	Marionette	DEBUG	Register listener.js for window 2147483649
+1515333009452	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515333010332	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515333010333	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515333011077	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515333011464	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515333011501	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515333030719	geckodriver	INFO	geckodriver 0.19.0
+1515333030730	geckodriver	INFO	Listening on 127.0.0.1:51170
+1515333031939	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.7vG8EmhEJzWc"
+1515333032704	Marionette	INFO	Enabled via --marionette
+2018-01-07 19:20:33.780 plugin-container[22746:2419707] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x783f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515333034247	Marionette	INFO	Listening on port 51179
+1515333034362	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515333034471	Marionette	DEBUG	Register listener.js for window 2147483649
+1515333034505	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515333035374	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515333035375	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515333036597	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515333037024	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1515333037062	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515333101190	geckodriver	INFO	geckodriver 0.19.0
+1515333101199	geckodriver	INFO	Listening on 127.0.0.1:51262
+1515333101329	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.U6eCDPJx2LC1"
+1515333102106	Marionette	INFO	Enabled via --marionette
+2018-01-07 19:21:43.355 plugin-container[22827:2427850] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9007, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515333103881	Marionette	INFO	Listening on port 51269
+1515333103992	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515333104069	Marionette	DEBUG	Register listener.js for window 2147483649
+1515333104098	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515333104913	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515333104914	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515333106275	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515333106517	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515333106666	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515333258256	geckodriver	INFO	geckodriver 0.19.0
+1515333258272	geckodriver	INFO	Listening on 127.0.0.1:51408
+1515333259554	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.aJjZthUXiITc"
+1515333260731	Marionette	INFO	Enabled via --marionette
+2018-01-07 19:24:21.866 plugin-container[22897:2444153] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7903, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515333262372	Marionette	INFO	Listening on port 51418
+1515333262403	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515333262482	Marionette	DEBUG	Register listener.js for window 2147483649
+1515333262521	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515333263379	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515333263380	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515333264118	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515333264558	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515333264728	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fmsp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:569:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:569:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515333919347	geckodriver	INFO	geckodriver 0.19.0
+1515333919357	geckodriver	INFO	Listening on 127.0.0.1:51792
+1515333920565	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.zYf5r52nqS2l"
+1515333921585	Marionette	INFO	Enabled via --marionette
+2018-01-07 19:35:24.403 plugin-container[23165:2511024] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515333925313	Marionette	INFO	Listening on port 51801
+1515333925428	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515333925523	Marionette	DEBUG	Register listener.js for window 2147483649
+1515333925546	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515333926369	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515333926370	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515333927341	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen#/wmp"
+1515333931306	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen#/wmp"
+1515334030066	geckodriver	INFO	geckodriver 0.19.0
+1515334030084	geckodriver	INFO	Listening on 127.0.0.1:51955
+1515334031318	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.HyS7KwOQky1Y"
+1515334032106	Marionette	INFO	Enabled via --marionette
+2018-01-07 19:37:13.338 plugin-container[23216:2522450] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515334033845	Marionette	INFO	Listening on port 51964
+1515334033967	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515334034050	Marionette	DEBUG	Register listener.js for window 2147483649
+1515334034084	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515334037849	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515334037850	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515334038871	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen#/wmp"
+1515334044627	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen#/wmp"
+1515334044771	Marionette	DEBUG	Received DOM event "beforeunload" for "https://play.google.com/music/listen#/wmp"
+1515334045452	Marionette	DEBUG	Received DOM event "pagehide" for "https://play.google.com/music/listen#/wmp"
+1515334045455	Marionette	DEBUG	Received DOM event "unload" for "https://play.google.com/music/listen#/wmp"
+1515334047093	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1515334047097	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fwmp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515334047496	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1515334047607	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fwmp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1515334218797	geckodriver	INFO	geckodriver 0.19.0
+1515334218805	geckodriver	INFO	Listening on 127.0.0.1:52168
+1515334220008	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.XvdCzE09Dvs5"
+1515334220744	Marionette	INFO	Enabled via --marionette
+2018-01-07 19:40:22.271 plugin-container[23340:2542864] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515334223933	Marionette	INFO	Listening on port 52177
+1515334223973	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515334224181	Marionette	DEBUG	Register listener.js for window 2147483649
+1515334224231	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515334225251	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515334225251	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515334226252	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen#/wmp"
+1515334230489	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen#/wmp"
+1515334230557	Marionette	DEBUG	Received DOM event "beforeunload" for "https://play.google.com/music/listen#/wmp"
+1515334231246	Marionette	DEBUG	Received DOM event "pagehide" for "https://play.google.com/music/listen#/wmp"
+1515334231248	Marionette	DEBUG	Received DOM event "unload" for "https://play.google.com/music/listen#/wmp"
+1515334232226	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1515334232228	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fwmp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515334232516	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1515334232689	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fwmp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515334329326	geckodriver	INFO	geckodriver 0.19.0
+1515334329340	geckodriver	INFO	Listening on 127.0.0.1:52372
+1515334330514	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.zI9qwL4pwKDT"
+1515334331253	Marionette	INFO	Enabled via --marionette
+2018-01-07 19:42:12.397 plugin-container[23370:2554219] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8503, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515334332923	Marionette	INFO	Listening on port 52384
+1515334332951	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515334333028	Marionette	DEBUG	Register listener.js for window 2147483649
+1515334333067	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515334336874	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515334336875	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515334338161	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen#/wmp"
+1515334342609	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen#/wmp"
+1515334342683	Marionette	DEBUG	Received DOM event "beforeunload" for "https://play.google.com/music/listen#/wmp"
+1515334343311	Marionette	DEBUG	Received DOM event "pagehide" for "https://play.google.com/music/listen#/wmp"
+1515334343312	Marionette	DEBUG	Received DOM event "unload" for "https://play.google.com/music/listen#/wmp"
+1515334344323	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1515334344349	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fwmp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515334344530	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1515334344557	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Futm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fwmp&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1515334913778	geckodriver	INFO	geckodriver 0.19.0
+1515334913786	geckodriver	INFO	Listening on 127.0.0.1:52727
+1515334915039	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.r6GoicKeepzi"
+1515334916342	Marionette	INFO	Enabled via --marionette
+2018-01-07 19:51:58.673 plugin-container[23459:2611774] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f4b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515334919533	Marionette	INFO	Listening on port 52736
+1515334919589	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515334919695	Marionette	DEBUG	Register listener.js for window 2147483649
+1515334919801	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515334923922	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515334923922	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515334923934	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515334924639	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+[Child 23459, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1515334993574	geckodriver	INFO	geckodriver 0.19.0
+1515334993584	geckodriver	INFO	Listening on 127.0.0.1:52901
+1515334993971	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.WH6z1jUX7wC0"
+1515334995804	Marionette	INFO	Enabled via --marionette
+2018-01-07 19:53:17.815 plugin-container[23505:2620781] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515334999156	Marionette	INFO	Listening on port 52908
+1515334999194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515334999301	Marionette	DEBUG	Register listener.js for window 2147483649
+1515334999348	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515335000387	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515335000387	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515335000398	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515335000976	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515335267050	geckodriver	INFO	geckodriver 0.19.0
+1515335267076	geckodriver	INFO	Listening on 127.0.0.1:53229
+1515335268279	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.C93rfvN390k7"
+1515335269013	Marionette	INFO	Enabled via --marionette
+2018-01-07 19:57:50.223 plugin-container[23549:2647925] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515335270717	Marionette	INFO	Listening on port 53238
+1515335270807	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515335270894	Marionette	DEBUG	Register listener.js for window 2147483649
+1515335270957	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515335272086	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515335272087	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515335272105	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515335272684	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[Parent 23548, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1515335308176	geckodriver	INFO	geckodriver 0.19.0
+1515335308188	geckodriver	INFO	Listening on 127.0.0.1:53399
+1515335309370	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.iqcNRD9tvoy6"
+1515335310099	Marionette	INFO	Enabled via --marionette
+2018-01-07 19:58:31.310 plugin-container[23578:2652482] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515335311795	Marionette	INFO	Listening on port 53408
+1515335311904	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515335311985	Marionette	DEBUG	Register listener.js for window 2147483649
+1515335312010	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515335312990	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515335312990	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515335313000	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515335313461	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515335378648	geckodriver	INFO	geckodriver 0.19.0
+1515335378660	geckodriver	INFO	Listening on 127.0.0.1:53663
+1515335379884	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.RWNqYDPwiSBs"
+1515335381491	Marionette	INFO	Enabled via --marionette
+[Child 23578, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+2018-01-07 19:59:44.460 plugin-container[23652:2660627] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515335385189	Marionette	INFO	Listening on port 53673
+1515335385497	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515335385605	Marionette	DEBUG	Register listener.js for window 2147483649
+1515335385741	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515335386716	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515335386717	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515335386728	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515335387447	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515335387640	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515335388937	Marionette	DEBUG	Received DOM event "pagehide" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515335388942	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515335389668	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/browse"
+1515335393691	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/browse"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515335401527	geckodriver	INFO	geckodriver 0.19.0
+1515335401536	geckodriver	INFO	Listening on 127.0.0.1:53858
+1515335402700	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.3K8h3YugspDf"
+1515335404335	Marionette	INFO	Enabled via --marionette
+2018-01-07 20:00:06.514 plugin-container[23676:2663237] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515335407797	Marionette	INFO	Listening on port 53867
+1515335407909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515335407993	Marionette	DEBUG	Register listener.js for window 2147483649
+1515335408123	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515335409097	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515335409097	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515335409109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515335409606	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515335409811	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515335411107	Marionette	DEBUG	Received DOM event "pagehide" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515335411111	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515335411783	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/browse"
+1515335416478	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/browse"
+1515335535191	geckodriver	INFO	geckodriver 0.19.0
+1515335535199	geckodriver	INFO	Listening on 127.0.0.1:54125
+1515335536489	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.E4rVZ8c8fawj"
+1515335537839	Marionette	INFO	Enabled via --marionette
+2018-01-07 20:02:20.119 plugin-container[23722:2676942] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515335541473	Marionette	INFO	Listening on port 54134
+1515335541588	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515335541687	Marionette	DEBUG	Register listener.js for window 2147483649
+1515335541745	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515335542946	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515335542946	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515335542955	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515335543803	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515335549405	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515335550893	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515335550893	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515335551257	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515335556793	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+1515335757587	geckodriver	INFO	geckodriver 0.19.0
+1515335757599	geckodriver	INFO	Listening on 127.0.0.1:54463
+1515335758821	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.ZycQDCu0gJlo"
+1515335759537	Marionette	INFO	Enabled via --marionette
+2018-01-07 20:06:00.645 plugin-container[23761:2699166] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7903, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515335761203	Marionette	INFO	Listening on port 54472
+1515335761247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515335761328	Marionette	DEBUG	Register listener.js for window 2147483649
+1515335761465	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515335762572	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515335762572	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515335762583	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515335763179	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515335769415	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515335770441	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515335770442	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515335770776	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515335778500	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+1515335840722	geckodriver	INFO	geckodriver 0.19.0
+1515335840737	geckodriver	INFO	Listening on 127.0.0.1:54713
+1515335841931	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.C5JwEQOTGbWL"
+1515335842607	Marionette	INFO	Enabled via --marionette
+2018-01-07 20:07:23.753 plugin-container[23788:2707706] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d47, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515335844268	Marionette	INFO	Listening on port 54723
+1515335844376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515335844452	Marionette	DEBUG	Register listener.js for window 2147483649
+1515335844476	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515335845440	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515335845440	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515335845466	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515335849578	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+[Parent 23719, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1515335856575	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515335856981	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515335856981	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515335857555	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515335862446	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+1515339045556	geckodriver	INFO	geckodriver 0.19.0
+1515339045573	geckodriver	INFO	Listening on 127.0.0.1:55809
+1515339046785	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.Ko0X1hUViF3T"
+1515339047560	Marionette	INFO	Enabled via --marionette
+2018-01-07 21:00:48.870 plugin-container[24075:2740064] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515339049436	Marionette	INFO	Listening on port 55822
+1515339049461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515339049543	Marionette	DEBUG	Register listener.js for window 2147483649
+1515339049637	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515339050876	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515339050876	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515339050889	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515339051736	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515339059022	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515339060129	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515339060130	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515339060539	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515339065831	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+1515339098396	geckodriver	INFO	geckodriver 0.19.0
+1515339098412	geckodriver	INFO	Listening on 127.0.0.1:56116
+1515339099642	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.GbKyPk3GFgLE"
+1515339100510	Marionette	INFO	Enabled via --marionette
+2018-01-07 21:01:41.791 plugin-container[24085:2740826] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515339102359	Marionette	INFO	Listening on port 56125
+1515339102409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515339102498	Marionette	DEBUG	Register listener.js for window 2147483649
+1515339102579	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515339103672	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515339103672	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515339103685	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515339104177	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515339110693	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515339110967	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515339110967	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515339111702	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515339117591	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+1515345028924	geckodriver	INFO	geckodriver 0.19.0
+1515345028935	geckodriver	INFO	Listening on 127.0.0.1:57137
+1515345030130	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.yer1pJI4SnqU"
+1515345030798	Marionette	INFO	Enabled via --marionette
+2018-01-07 22:40:31.849 plugin-container[24349:2765243] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515345032411	Marionette	INFO	Listening on port 57146
+1515345032446	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515345032556	Marionette	DEBUG	Register listener.js for window 2147483649
+1515345032639	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515345033853	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515345033853	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515345033863	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515345034429	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515345040108	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515345042382	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515345042382	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515345042773	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515345047171	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+1515345066619	geckodriver	INFO	geckodriver 0.19.0
+1515345066635	geckodriver	INFO	Listening on 127.0.0.1:57328
+1515345067860	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.emaKhkcuudB1"
+1515345068702	Marionette	INFO	Enabled via --marionette
+2018-01-07 22:41:09.942 plugin-container[24358:2765924] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515345070590	Marionette	INFO	Listening on port 57338
+1515345070611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515345070704	Marionette	DEBUG	Register listener.js for window 2147483649
+1515345070797	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515345071783	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515345071783	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515345071795	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515345072288	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515345079086	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515345080574	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515345080580	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515345081157	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515345086225	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1515345133346	geckodriver	INFO	geckodriver 0.19.0
+1515345133354	geckodriver	INFO	Listening on 127.0.0.1:57599
+1515345133555	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.UCNTLVwM3uoV"
+1515345134359	Marionette	INFO	Enabled via --marionette
+2018-01-07 22:42:15.783 plugin-container[24405:2767543] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7607, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515345136375	Marionette	INFO	Listening on port 57606
+1515345136471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515345136561	Marionette	DEBUG	Register listener.js for window 2147483649
+1515345136612	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515345140631	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515345140632	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515345140643	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515345141247	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515345147150	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515345148248	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515345148248	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515345148572	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515345155122	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350006,name=PGMP::Msg_PGMPContentChildDestroyed) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1515345432387	geckodriver	INFO	geckodriver 0.19.0
+1515345432394	geckodriver	INFO	Listening on 127.0.0.1:57912
+1515345433567	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.XD1JSgJM3If9"
+1515345434212	Marionette	INFO	Enabled via --marionette
+2018-01-07 22:47:15.275 plugin-container[24426:2770910] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515345435751	Marionette	INFO	Listening on port 57921
+1515345435857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515345435929	Marionette	DEBUG	Register listener.js for window 2147483649
+1515345435988	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515345437018	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515345437019	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515345437031	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515345437569	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515345443610	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515345444686	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515345444686	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515345445115	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515345449843	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+1515345512775	geckodriver	INFO	geckodriver 0.19.0
+1515345512791	geckodriver	INFO	Listening on 127.0.0.1:58170
+1515345514055	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.4WW1ebrkbIbd"
+1515345515027	Marionette	INFO	Enabled via --marionette
+2018-01-07 22:48:36.400 plugin-container[24441:2772288] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8403, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515345517031	Marionette	INFO	Listening on port 58179
+1515345517150	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515345517236	Marionette	DEBUG	Register listener.js for window 2147483649
+1515345517268	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515345518246	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515345518246	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515345518257	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515345518857	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515345523741	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515345526028	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515345526028	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515345526506	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515345530751	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+1515346151816	geckodriver	INFO	geckodriver 0.19.0
+1515346151828	geckodriver	INFO	Listening on 127.0.0.1:58607
+1515346153046	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.xgrtinB5mNW3"
+1515346153859	Marionette	INFO	Enabled via --marionette
+2018-01-07 22:59:15.258 plugin-container[24560:2780091] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515346155792	Marionette	INFO	Listening on port 58616
+1515346155857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515346155940	Marionette	DEBUG	Register listener.js for window 2147483649
+1515346155964	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515346157019	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515346157019	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515346157029	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515346157648	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515346162700	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515346163745	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515346163745	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515346164133	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515346168248	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+1515346221110	geckodriver	INFO	geckodriver 0.19.0
+1515346221118	geckodriver	INFO	Listening on 127.0.0.1:58901
+1515346222391	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.DXCaGRt7nyh4"
+1515346223216	Marionette	INFO	Enabled via --marionette
+2018-01-07 23:00:24.492 plugin-container[24568:2780976] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515346225059	Marionette	INFO	Listening on port 58910
+1515346225200	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515346225292	Marionette	DEBUG	Register listener.js for window 2147483649
+1515346225333	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515346226295	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515346226296	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515346226309	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515346226966	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515346232055	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515346232333	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515346232333	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515346233028	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515346238400	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+1515346365659	geckodriver	INFO	geckodriver 0.19.0
+1515346365670	geckodriver	INFO	Listening on 127.0.0.1:59163
+1515346365924	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.CxN8lTLlM5Cw"
+1515346366714	Marionette	INFO	Enabled via --marionette
+2018-01-07 23:02:48.078 plugin-container[24578:2782245] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515346368676	Marionette	INFO	Listening on port 59170
+1515346368796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515346368898	Marionette	DEBUG	Register listener.js for window 2147483649
+1515346368956	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515346370011	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515346370011	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515346370022	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515346371070	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515346381557	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515346382170	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515346382171	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515346384234	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350006,name=PGMP::Msg_PGMPContentChildDestroyed) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1515346440752	geckodriver	INFO	geckodriver 0.19.0
+1515346440762	geckodriver	INFO	Listening on 127.0.0.1:59476
+1515346441120	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.7P7CHhaYRNKw"
+1515346442354	Marionette	INFO	Enabled via --marionette
+2018-01-07 23:04:03.516 plugin-container[24667:2784943] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7803, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515346444001	Marionette	INFO	Listening on port 59483
+1515346444099	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515346444178	Marionette	DEBUG	Register listener.js for window 2147483649
+1515346444207	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515346445331	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515346445332	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515346445343	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515346445930	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515346452415	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515346452694	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515346452695	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515346454046	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515346461146	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+1515346831841	geckodriver	INFO	geckodriver 0.19.0
+1515346831848	geckodriver	INFO	Listening on 127.0.0.1:59818
+1515346833060	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.07qaTkqsv4S8"
+1515346833715	Marionette	INFO	Enabled via --marionette
+2018-01-07 23:10:34.822 plugin-container[24757:2789782] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515346835343	Marionette	INFO	Listening on port 59827
+1515346835371	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515346835450	Marionette	DEBUG	Register listener.js for window 2147483649
+1515346835483	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515346836685	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515346836685	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515346836695	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515346837239	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515346842117	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515346844411	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515346844412	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515346844765	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515346849500	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+1515347154360	geckodriver	INFO	geckodriver 0.19.0
+1515347154369	geckodriver	INFO	Listening on 127.0.0.1:60146
+1515347155590	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.nnFs7t9Op7AU"
+1515347156256	Marionette	INFO	Enabled via --marionette
+2018-01-07 23:15:57.371 plugin-container[24871:2793913] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515347157908	Marionette	INFO	Listening on port 60155
+1515347157934	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515347158009	Marionette	DEBUG	Register listener.js for window 2147483649
+1515347158053	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515347159245	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515347159246	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515347159255	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515347159806	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515347165513	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515347167812	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515347167812	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515347168139	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515347172788	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+1515347390827	geckodriver	INFO	geckodriver 0.19.0
+1515347390835	geckodriver	INFO	Listening on 127.0.0.1:60495
+1515347391045	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.S4QimXYL4s7N"
+1515347391826	Marionette	INFO	Enabled via --marionette
+2018-01-07 23:19:53.324 plugin-container[24936:2796847] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8243, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515347393827	Marionette	INFO	Listening on port 60502
+1515347393942	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515347394029	Marionette	DEBUG	Register listener.js for window 2147483649
+1515347394104	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515347395123	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515347395123	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515347395136	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515347395726	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515347400796	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515347402283	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515347402283	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515347402732	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515347411885	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+1515347495732	geckodriver	INFO	geckodriver 0.19.0
+1515347495739	geckodriver	INFO	Listening on 127.0.0.1:60716
+1515347496973	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.hGdxD3rTNipf"
+1515347497735	Marionette	INFO	Enabled via --marionette
+2018-01-07 23:21:38.976 plugin-container[24945:2797797] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8547, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515347499593	Marionette	INFO	Listening on port 60725
+1515347499618	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515347499713	Marionette	DEBUG	Register listener.js for window 2147483649
+1515347499772	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515347500931	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515347500933	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515347500943	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515347501567	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515347508142	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515347509627	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515347509627	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515347510005	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515347515034	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1515347610138	geckodriver	INFO	geckodriver 0.19.0
+1515347610148	geckodriver	INFO	Listening on 127.0.0.1:60985
+1515347611383	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.JIUgpm5MYjgl"
+1515347612080	Marionette	INFO	Enabled via --marionette
+2018-01-07 23:23:33.214 plugin-container[24988:2799732] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8203, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515347613738	Marionette	INFO	Listening on port 60994
+1515347613824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515347613910	Marionette	DEBUG	Register listener.js for window 2147483649
+1515347613952	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515347614901	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515347614901	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515347614914	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515347615456	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515347623442	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515347625882	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515347625882	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515347626264	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515347630008	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1515348235273	geckodriver	INFO	geckodriver 0.19.0
+1515348235280	geckodriver	INFO	Listening on 127.0.0.1:61428
+1515348236500	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.zKrWLaoMGz7V"
+1515348237158	Marionette	INFO	Enabled via --marionette
+2018-01-07 23:33:58.269 plugin-container[25047:2805018] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515348238797	Marionette	INFO	Listening on port 61437
+1515348238821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515348238896	Marionette	DEBUG	Register listener.js for window 2147483649
+1515348238939	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515348240024	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515348240025	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515348240036	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515348240634	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515348246650	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515348247693	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515348247694	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515348248014	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515348254686	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350006,name=PGMP::Msg_PGMPContentChildDestroyed) Channel error: cannot send/recv
+
+1515348623311	geckodriver	INFO	geckodriver 0.19.0
+1515348623318	geckodriver	INFO	Listening on 127.0.0.1:61769
+1515348624519	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.iIBRfNxJGYp0"
+1515348625322	Marionette	INFO	Enabled via --marionette
+2018-01-07 23:40:26.968 plugin-container[25120:2809137] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515348627588	Marionette	INFO	Listening on port 61778
+1515348627638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515348627769	Marionette	DEBUG	Register listener.js for window 2147483649
+1515348627797	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515348631986	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515348631987	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515348632000	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515348635672	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515348642314	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515348644617	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515348644618	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515348645118	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515348650749	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1515348682593	geckodriver	INFO	geckodriver 0.19.0
+1515348682600	geckodriver	INFO	Listening on 127.0.0.1:62022
+1515348683785	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.z2OzlQC3x3ut"
+1515348684451	Marionette	INFO	Enabled via --marionette
+2018-01-07 23:41:25.558 plugin-container[25155:2810578] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515348686074	Marionette	INFO	Listening on port 62033
+1515348686097	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515348686187	Marionette	DEBUG	Register listener.js for window 2147483649
+1515348686221	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515348687258	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515348687258	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515348687269	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515348687725	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515348692345	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515348693406	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515348693406	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515348693813	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515348701101	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+1515348735547	geckodriver	INFO	geckodriver 0.19.0
+1515348735555	geckodriver	INFO	Listening on 127.0.0.1:62283
+1515348736968	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.rV9NK3Nu8i1q"
+1515348739150	Marionette	INFO	Enabled via --marionette
+2018-01-07 23:42:21.452 plugin-container[25175:2811755] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515348742959	Marionette	INFO	Listening on port 62293
+1515348743071	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515348743185	Marionette	DEBUG	Register listener.js for window 2147483649
+1515348743246	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515348744222	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515348744223	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515348744235	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515348744959	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515348752579	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515348754386	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515348754386	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515348755273	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515348763403	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1515348989467	geckodriver	INFO	geckodriver 0.19.0
+1515348989474	geckodriver	INFO	Listening on 127.0.0.1:62683
+1515348990844	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.s9whaD7LSZUC"
+1515348992363	Marionette	INFO	Enabled via --marionette
+2018-01-07 23:46:34.115 plugin-container[25278:2815209] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515348995243	Marionette	INFO	Listening on port 62694
+1515348995283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515348995384	Marionette	DEBUG	Register listener.js for window 2147483649
+1515348995430	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515348996578	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515348996578	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515348996588	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515348997118	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515349002924	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515349003941	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515349003942	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515349004309	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515349009878	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1515349048861	geckodriver	INFO	geckodriver 0.19.0
+1515349048867	geckodriver	INFO	Listening on 127.0.0.1:62974
+1515349050055	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.Pn9bLUQUEALl"
+1515349050730	Marionette	INFO	Enabled via --marionette
+2018-01-07 23:47:31.836 plugin-container[25293:2816287] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7903, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515349052314	Marionette	INFO	Listening on port 62983
+1515349052375	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515349052450	Marionette	DEBUG	Register listener.js for window 2147483649
+1515349052504	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515349053426	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515349053427	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515349053436	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515349053923	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515349059762	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515349062032	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515349062032	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515349062374	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515349067216	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+1515349172276	geckodriver	INFO	geckodriver 0.19.0
+1515349172283	geckodriver	INFO	Listening on 127.0.0.1:63267
+1515349173595	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.ZvOUFWXVj68T"
+1515349174586	Marionette	INFO	Enabled via --marionette
+2018-01-07 23:49:36.076 plugin-container[25336:2818121] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515349176997	Marionette	INFO	Listening on port 63276
+1515349177169	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515349177249	Marionette	DEBUG	Register listener.js for window 2147483649
+1515349177274	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515349178312	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515349178312	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515349178324	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515349179025	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515349184742	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515349186262	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515349186263	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515349186818	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515349197113	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1515349222933	geckodriver	INFO	geckodriver 0.19.0
+1515349222939	geckodriver	INFO	Listening on 127.0.0.1:63535
+1515349224150	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.WuJ1He3GYdc2"
+1515349224835	Marionette	INFO	Enabled via --marionette
+2018-01-07 23:50:26.008 plugin-container[25344:2819226] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515349226529	Marionette	INFO	Listening on port 63544
+1515349226618	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515349226703	Marionette	DEBUG	Register listener.js for window 2147483649
+1515349226753	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515349227760	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515349227760	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515349227771	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515349228239	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515349232880	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515349233906	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515349233906	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515349234498	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515349247714	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+1515349278559	geckodriver	INFO	geckodriver 0.19.0
+1515349278574	geckodriver	INFO	Listening on 127.0.0.1:63785
+1515349279012	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.pDYMmVVeWGpr"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515349281415	Marionette	INFO	Enabled via --marionette
+2018-01-07 23:51:23.757 plugin-container[25378:2820331] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515349285215	Marionette	INFO	Listening on port 63792
+1515349285318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515349285434	Marionette	DEBUG	Register listener.js for window 2147483649
+1515349285503	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515349286583	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515349286584	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515349286598	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515349287280	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515349292358	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515349293442	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515349293443	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515349294180	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515349299090	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+1515438491223	geckodriver	INFO	geckodriver 0.19.0
+1515438491236	geckodriver	INFO	Listening on 127.0.0.1:53709
+1515438492537	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.ysvRHcWLzYbr"
+1515438493651	Marionette	INFO	Enabled via --marionette
+2018-01-09 00:38:15.102 plugin-container[28189:3063095] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515438495871	Marionette	INFO	Listening on port 53718
+1515438495956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515438496045	Marionette	DEBUG	Register listener.js for window 2147483649
+1515438496094	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515438497286	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515438497288	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515438497306	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515438497920	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515438504394	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515438504650	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515438504650	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515438506542	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515438512967	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+1515438539269	geckodriver	INFO	geckodriver 0.19.0
+1515438539277	geckodriver	INFO	Listening on 127.0.0.1:53969
+1515438540523	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.F4GUOnZyOQk4"
+1515438542027	Marionette	INFO	Enabled via --marionette
+2018-01-09 00:39:03.734 plugin-container[28197:3063884] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515438544399	Marionette	INFO	Listening on port 53983
+1515438544477	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515438544599	Marionette	DEBUG	Register listener.js for window 2147483649
+1515438544754	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515438545771	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515438545772	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515438545787	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515438546486	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515438553685	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515438553946	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515438553947	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515438555091	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515438561096	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+1515439540743	geckodriver	INFO	geckodriver 0.19.0
+1515439540752	geckodriver	INFO	Listening on 127.0.0.1:54482
+1515439542006	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.9NMXGKsV1779"
+1515439542772	Marionette	INFO	Enabled via --marionette
+2018-01-09 00:55:43.944 plugin-container[28375:3112707] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515439544496	Marionette	INFO	Listening on port 54491
+1515439544565	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515439544653	Marionette	DEBUG	Register listener.js for window 2147483649
+1515439544676	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515439545694	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515439545694	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515439545706	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515439546343	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515439557817	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1515439558514	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515439558515	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515439558871	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515439560224	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+2018-01-09 00:56:00.271 plugin-container[28388:3114294] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515439570041	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+1515439764962	geckodriver	INFO	geckodriver 0.19.0
+1515439764969	geckodriver	INFO	Listening on 127.0.0.1:54751
+1515439766591	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.bMeXud5Pvpx5"
+1515439768523	Marionette	INFO	Enabled via --marionette
+2018-01-09 00:59:30.451 plugin-container[28432:3134990] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7947, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515439771738	Marionette	INFO	Listening on port 54760
+1515439771825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515439771932	Marionette	DEBUG	Register listener.js for window 2147483649
+1515439771973	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515439772993	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515439772993	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515439773004	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515439773577	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515439779133	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515439780669	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515439780669	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515439781379	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515439786939	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+1515439965349	geckodriver	INFO	geckodriver 0.19.0
+1515439965357	geckodriver	INFO	Listening on 127.0.0.1:55072
+1515439966630	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.giMOmlmK5kB2"
+1515439967514	Marionette	INFO	Enabled via --marionette
+2018-01-09 01:02:48.846 plugin-container[28452:3154269] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515439969442	Marionette	INFO	Listening on port 55081
+1515439969473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515439969575	Marionette	DEBUG	Register listener.js for window 2147483649
+1515439969629	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515439970647	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515439970648	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515439970663	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515439971753	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515439977118	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515439977426	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515439977426	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515439978191	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/collection/playlists"
+1515439985974	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/collection/playlists"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2400A8,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x850006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1515440983020	geckodriver	INFO	geckodriver 0.19.0
+1515440983030	geckodriver	INFO	Listening on 127.0.0.1:55661
+1515440983297	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.Ae9jyY7pbZDu"
+1515440984260	Marionette	INFO	Enabled via --marionette
+2018-01-09 01:19:45.673 plugin-container[28681:3253661] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515440986380	Marionette	INFO	Listening on port 55672
+1515440986419	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515440986512	Marionette	DEBUG	Register listener.js for window 2147483649
+1515440986564	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515440987641	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515440987642	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515440987658	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515440988451	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515440988682	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515440989859	Marionette	DEBUG	Received DOM event "pagehide" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515440989859	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515440990826	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/user/htnamus/playlist/746pzDziRmsL0qUZ1l8kyc"
+1515440995601	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/user/htnamus/playlist/746pzDziRmsL0qUZ1l8kyc"
+1515441037482	geckodriver	INFO	geckodriver 0.19.0
+1515441037492	geckodriver	INFO	Listening on 127.0.0.1:55855
+1515441038688	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.F5jJY4Lav4kT"
+1515441039497	Marionette	INFO	Enabled via --marionette
+2018-01-09 01:20:40.788 plugin-container[28707:3259400] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x783f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515441042156	Marionette	INFO	Listening on port 55864
+1515441042209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515441042341	Marionette	DEBUG	Register listener.js for window 2147483649
+1515441042443	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515441043601	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515441043601	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515441043616	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515441044646	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515441051874	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515441054871	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515441054871	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515441055652	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/user/htnamus/playlist/746pzDziRmsL0qUZ1l8kyc"
+1515441061318	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/user/htnamus/playlist/746pzDziRmsL0qUZ1l8kyc"
+1515441085538	geckodriver	INFO	geckodriver 0.19.0
+1515441085549	geckodriver	INFO	Listening on 127.0.0.1:56077
+1515441086743	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.s6m3CtGIa9A8"
+1515441087505	Marionette	INFO	Enabled via --marionette
+2018-01-09 01:21:28.703 plugin-container[28760:3264667] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8143, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515441089225	Marionette	INFO	Listening on port 56086
+1515441089278	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515441089368	Marionette	DEBUG	Register listener.js for window 2147483649
+1515441089452	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515441090488	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515441090489	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515441090498	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515441091100	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515441096087	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515441098266	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515441098266	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515441099293	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/user/htnamus/playlist/746pzDziRmsL0qUZ1l8kyc"
+1515441109925	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/user/htnamus/playlist/746pzDziRmsL0qUZ1l8kyc"
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/rules.js, line 393: TypeError: node.offsetParent is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/rules.js, line 393: TypeError: node.offsetParent is null
+1515441169251	geckodriver	INFO	geckodriver 0.19.0
+1515441169264	geckodriver	INFO	Listening on 127.0.0.1:56277
+1515441170482	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.nXaEclfLsfKg"
+1515441171244	Marionette	INFO	Enabled via --marionette
+2018-01-09 01:22:52.510 plugin-container[28802:3273488] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x720b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515441173004	Marionette	INFO	Listening on port 56286
+1515441173118	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515441173203	Marionette	DEBUG	Register listener.js for window 2147483649
+1515441173242	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515441174196	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515441174197	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515441174209	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515441177809	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515441183949	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515441186854	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515441186854	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515441187248	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/user/htnamus/playlist/746pzDziRmsL0qUZ1l8kyc"
+1515441191988	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/user/htnamus/playlist/746pzDziRmsL0qUZ1l8kyc"
+1515441277479	geckodriver	INFO	geckodriver 0.19.0
+1515441277490	geckodriver	INFO	Listening on 127.0.0.1:56496
+1515441278728	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/7t/b6m2_cr91xx4r4l601vfc7vr0000gn/T/rust_mozprofile.FCWzFWi9P5KS"
+1515441279515	Marionette	INFO	Enabled via --marionette
+2018-01-09 01:24:40.708 plugin-container[28833:3284335] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515441281292	Marionette	INFO	Listening on port 56505
+1515441281414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515441281498	Marionette	DEBUG	Register listener.js for window 2147483649
+1515441281526	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515441282570	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515441282571	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515441282584	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515441283156	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse"
+1515441289208	Marionette	DEBUG	Received DOM event "beforeunload" for "https://open.spotify.com/browse/featured"
+1515441291556	Marionette	DEBUG	Received DOM event "pagehide" for "https://open.spotify.com/browse/featured"
+1515441291556	Marionette	DEBUG	Received DOM event "unload" for "https://open.spotify.com/browse/featured"
+1515441291964	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.spotify.com/user/htnamus/playlist/746pzDziRmsL0qUZ1l8kyc"
+1515441295661	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.spotify.com/user/htnamus/playlist/746pzDziRmsL0qUZ1l8kyc"
